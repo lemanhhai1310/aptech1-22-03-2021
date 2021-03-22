@@ -1,0 +1,70 @@
+.header{
+  .uk-sticky-below &{
+    background-color: #fff;
+    position: static !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,.08);
+  }
+  .uk-logo{
+    img{
+      height: 50px;
+      @include media-breakpoint-up('m'){
+        height: 57px;
+      }
+    }
+  }
+  &__itemLine{
+    position: relative;
+    &:nth-child(n+2){
+      &:before{
+        content: "";
+        width: 1px;
+        height: 13px;
+        background-color: #fff;
+        opacity: 0;
+        @include media-breakpoint-up('m'){
+          opacity: 1;
+        }
+        .uk-sticky-below &{
+          background-color: #666666;
+        }
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+    }
+  }
+  &__socialLink{
+    color: #ffffff;
+    .uk-sticky-below &{
+      color: #666666;
+    }
+  }
+  &__btnRegis{
+    text-transform: inherit;
+    @extend .fz-16;
+    color: #ffffff;
+    background-image: linear-gradient(to top, #dd4c23, #f17a1e);
+    font-family: $font-SVN-Gilroy-Bold;
+    line-height: 33px;
+    padding: 0 15px;
+    @include media-breakpoint-up('m'){
+      padding: 0 30px;
+    }
+  }
+  .uk-navbar-nav{
+    >li{
+      >a{
+        color: #ffffff;
+        .uk-sticky-below &{
+          color: #666666;
+        }
+        text-transform: inherit;
+        font-family: $font-HelveticaNeue-Bold;
+        @extend .fz-16;
+        letter-spacing: -0.4px;
+      }
+    }
+  }
+}

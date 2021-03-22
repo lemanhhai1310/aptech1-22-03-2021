@@ -1,0 +1,29 @@
+.block01{
+  &__card{
+    padding: 20px;
+    @include media-breakpoint-up('m'){
+      padding: 30px;
+    }
+  }
+  &__input{
+    @extend .fz-16;
+    color: #54595f;
+    background-color: #F0F0F0;
+    border-color: #F0F0F0;
+    &.uk-form-large{
+      height: 54px !important;
+    }
+    &::placeholder{
+      color: #54595f;
+    }
+  }
+  &__btn{
+    &.uk-button-large{
+      line-height: 52px !important;
+    }
+    @extend .fz-16;
+    background-image: linear-gradient(to top, #03228f, #0c62d2);
+    font-family: $font-HelveticaNeue-Bold;
+    text-transform: inherit;
+  }
+}

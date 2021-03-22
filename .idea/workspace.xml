@@ -1,8 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7210a923-2d71-4f7a-977d-54ac487f0555" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/aptech.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/fb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/fb-share.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/game.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/title1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/title2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/aptech_game_mx2019.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/32575ae941482bf7e05e4eee8e4b6ad4d5730dc3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/4bf37b363a51abe65dc49adf1a66cc414c1fa0f0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/596e0d2747ca5835739be69fe4d18e02ba79bbf0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/aaf29b4e32d3590c0884d47e32b40eba71591489.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/mtekscis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/uxyywcsf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/wkl6e2gf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/52f635a56ca1c6971a2a29cb0c1ae21eb78f88e0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/ec861670fd34e6a95f75d25743150a8caec6b561.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/ec861670fd34e6a95f75d25743150a8caec6b561.cache.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/wvugbzhh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/ryoabsuj.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/worecuex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/language/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/language/phpmailer.lang-joomla.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/mailconfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-BOLD-ITALIC (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-BOLD-ITALIC.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-ITALIC (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-ITALIC.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE-BOLD.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBLACK (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBLACK.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBOLD.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHT (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHT.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHTITALIC (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHTITALIC.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEMEDIUM (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEMEDIUM.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHT (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHT.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHTITALIC (1).TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHTITALIC.TTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SVN-Gilroy-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/layout/_block01.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-parts/layouts/block01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Gotham-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Kimberley.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-cntt1/.idea/ldp-cntt1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-cntt1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/ldp-qtkd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/jquery/3.5.1/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/css/uikit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/js/uikit-icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/js/uikit-icons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/js/uikit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/assets/uikit-3.6.18/js/uikit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/fonts/Arial/arial.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/_Group_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/_Group_hai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/lemanhhai_anhthe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/noimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/abstracts/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/abstracts/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/base/_uikits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_fontsize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_keyframes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_margin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/components/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/layout/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/pages/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/pages/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/pages/_home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/themes/_admin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/themes/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/vendors/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/scss/vendors/_jquery-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/commons/facebook_chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/layouts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/template-parts/layouts/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/css/uikit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/js/uikit-icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/js/uikit-icons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/js/uikit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.18/js/uikit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/_locvieclam.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/_locvieclam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/locvieclam.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/locvieclam.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/scss/pages/_locvieclam.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/scss/pages/_locvieclam.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_color.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cooken" beforeDir="false" afterPath="$PROJECT_DIR$/../cooken" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/product-detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/product-detail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/scss/pages/_product-detail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/scss/pages/_product-detail.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/js/uikit-icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/js/uikit-icons.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/js/uikit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/js/uikit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/scss/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../base/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/template-parts/layouts/header.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q6KP3ac5g2rQWqaAA54veYIXx8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7210a923-2d71-4f7a-977d-54ac487f0555" name="Default Changelist" comment="" />
+      <created>1616394572798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616394572798</updated>
+      <workItem from="1616394574064" duration="592000" />
+      <workItem from="1616396693213" duration="6170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2701" y="480" key="NewPhpFileDialog" timestamp="1616397176744">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2701" y="480" key="NewPhpFileDialog/48.25.1872.1055/1920.25.1920.1055@1920.25.1920.1055" timestamp="1616397176744" />
   </component>
 </project>

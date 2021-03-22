@@ -10,3 +10,34 @@
   font-weight:normal;
   font-style:normal;
 }
+/**
+ * --------------------------------------------------------------------
+ * HelveticaNeue
+ * --------------------------------------------------------------------
+ */
+@font-face{
+  font-family:'Helvetica Neue Regular';
+  font-display: auto;
+  src:local('Helvetica Neue Regular'), url('fonts/Fonts/HELVETICANEUE.TTF') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face{
+  font-family:'Helvetica Neue Bold';
+  font-display: auto;
+  src:local('Helvetica Neue Bold'), url('fonts/Fonts/HELVETICANEUE-BOLD.OTF') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+/**
+ * --------------------------------------------------------------------
+ * Arial
+ * --------------------------------------------------------------------
+ */
+@font-face{
+  font-family:'SVN-Gilroy Bold';
+  font-display: auto;
+  src:local('SVN-Gilroy Bold'), url('fonts/SVN-Gilroy-Bold.otf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}

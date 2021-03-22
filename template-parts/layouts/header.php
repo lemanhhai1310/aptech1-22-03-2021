@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>BASE - <?= /** @var TYPE_NAME  */
+    <title>Aptech - <?= /** @var TYPE_NAME  */
         (isset($data['title'])) ? $data['title'] : ''; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <!--CSS-->
@@ -20,4 +20,32 @@
 </head>
 <body class="<?= ($is_home) ? 'isHome' : '' ?>">
 <?php require "template-parts/commons/facebook_chat.php"; ?>
-<section id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden uk-position-relative">
+<section id="app" class="uk-offcanvas-content uk-overflow-hidden uk-position-relative uk-background-norepeat uk-background-top-center" uk-toggle="cls: uk-background-contain; mode: media; media: @l" data-src="images/bannercopy.png" uk-img>
+<div uk-sticky="top: 100vh;animation: uk-animation-slide-top;">
+    <header class="header">
+        <div class="uk-container uk-padding-remove">
+            <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+                <div class="uk-navbar-left">
+                    <a href="" class="uk-navbar-item uk-logo"><img src="images/logo.png" alt=""></a>
+                </div>
+                <div class="uk-navbar-right">
+                    <div class="uk-navbar-item header__itemLine uk-visible@m">
+                        <ul class="uk-navbar-nav">
+                            <li class="uk-active"><a href="#">GIỚI THIỆU</a></li>
+                            <li><a href="#">HÌNH THỨC THI</a></li>
+                        </ul>
+                    </div>
+                    <div class="uk-navbar-item header__itemLine">
+                        <div class="uk-child-width-auto uk-grid-10 uk-grid-20-m uk-flex-middle" uk-grid>
+                            <div><a href="" class="header__socialLink" uk-icon="icon: facebook; ratio: 1"></a></div>
+                            <div><a href="" class="header__socialLink" uk-icon="icon: youtube; ratio: 1"></a></div>
+                            <div>
+                                <a href="" class="header__btnRegis uk-button uk-button-secondary uk-border-pill">Đăng ký</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+</div>
