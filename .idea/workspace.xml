@@ -52,29 +52,6 @@
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-BOLD-ITALIC (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-BOLD-ITALIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-ITALIC (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICA-NEUE-ITALIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE-BOLD.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUE.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBLACK (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBLACK.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUECONDENSEDBOLD.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHT (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHTITALIC (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUELIGHTITALIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEMEDIUM (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEMEDIUM.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHT (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHT.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHTITALIC (1).TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Fonts/HELVETICANEUEULTRALIGHTITALIC.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SVN-Gilroy-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/layout/_block01.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template-parts/layouts/block01.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Black.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Bold.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-BoldItalic.ttf" afterDir="false" />
@@ -175,18 +152,18 @@
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_color.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/base/_uikits.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_uikits.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_fontsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_fontsize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_margin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_margin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cooken" beforeDir="false" afterPath="$PROJECT_DIR$/../cooken" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" afterDir="false" />
@@ -267,7 +244,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616394572798</updated>
       <workItem from="1616394574064" duration="592000" />
-      <workItem from="1616396693213" duration="6170000" />
+      <workItem from="1616396693213" duration="8968000" />
     </task>
     <servers />
   </component>

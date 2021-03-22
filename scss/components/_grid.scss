@@ -23,10 +23,11 @@
 $j:
 5,
 10,
-20,
+20,23,
 30,
 40,
-50;
+50,
+219;
 @each $i in $j {
   .uk-grid-#{$i}-xl{
     @include media-breakpoint-up('xl'){
