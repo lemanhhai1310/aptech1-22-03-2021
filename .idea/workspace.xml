@@ -225,8 +225,8 @@
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block01.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/particles.js-master/demo/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/particles.js-master/demo/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cooken" beforeDir="false" afterPath="$PROJECT_DIR$/../cooken" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" afterDir="false" />
@@ -313,7 +313,8 @@
       <workItem from="1616394574064" duration="592000" />
       <workItem from="1616396693213" duration="9371000" />
       <workItem from="1616418276196" duration="5924000" />
-      <workItem from="1616461538945" duration="19887000" />
+      <workItem from="1616461538945" duration="19996000" />
+      <workItem from="1616492552823" duration="542000" />
     </task>
     <servers />
   </component>
