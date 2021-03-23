@@ -149,7 +149,14 @@
       border-radius: 15px;
     }
     .uk-icon{
+      svg{
+        >*{
+          stroke: #1463de !important;
+        }
+        path{
 
+        }
+      }
     }
     &__box1{
       //background-image: linear-gradient(to bottom, #308dff, #308dff), linear-gradient(to top, #03228f, #0c62d2);
