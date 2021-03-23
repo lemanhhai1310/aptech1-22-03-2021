@@ -43,7 +43,7 @@
                             <div><a href="https://www.facebook.com/AptechVNLearning/" target="_blank" class="header__socialLink" uk-icon="icon: facebook; ratio: 1"></a></div>
                             <div><a href="https://youtube.com/c/AprotrainAptech" target="_blank" class="header__socialLink" uk-icon="icon: youtube; ratio: 1"></a></div>
                             <div>
-                                <a href="" class="header__btnRegis uk-button uk-button-secondary uk-border-pill">Đăng ký</a>
+                                <a href="#dky" uk-scroll class="header__btnRegis uk-button uk-button-secondary uk-border-pill">Đăng ký</a>
                             </div>
                         </div>
                     </div>

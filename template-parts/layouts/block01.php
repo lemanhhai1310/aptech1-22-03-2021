@@ -7,7 +7,7 @@
                         <img src="images/Group4.png" alt="">
                     </div>
                 </div>
-                <div class="uk-width-2-5@m">
+                <div class="uk-width-2-5@m" id="dky">
                     <div class="uk-text-center uk-margin mb-50-m">
                         <img src="images/VectorSmartObject221.png" alt="">
                     </div>
