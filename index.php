@@ -1,6 +1,11 @@
 <?php $data["title"] = "Kỳ thi đánh giá CNTT 2021"; ?>
 <?php $is_home = true; ?>
 <?php require "template-parts/layouts/header.php"; ?>
+    <script>
+      particlesJS.load('particles-js', 'particles.js-master/particles.json', function() {
+        console.log('callback - particles.js config loaded');
+      });
+    </script>
 <?php require "template-parts/layouts/block01.php"; ?>
 <div>
     <div class="uk-container">

@@ -49,14 +49,14 @@ $mail->Body    = 'Họ và Tên: ' . $fname .'<br>Email: ' . $femail . '<br>Số
 //Info Message
 if (!$mail->send()) {
 $error = "Mailer Error: " . $mail->ErrorInfo;
-echo '<p id="res">'.$error.'</p>';
+echo '<p id="res" class="uk-margin-small-top uk-text-danger">'.$error.'</p>';
 }
 else {
-echo '<p id="res">Thanks! Message Sent Successfully.</p>';
+echo '<p id="res" class="uk-margin-small-top uk-text-success">Thanks! Message Sent Successfully.</p>';
 }
 }
 else{
-echo '<p id="res">Please enter valid Inputs</p>';
+echo '<p id="res" class="uk-margin-small-top uk-text-warning">Please enter valid Inputs</p>';
 }
 
 ?>

@@ -16,9 +16,13 @@
     <!-- UIkit JS -->
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.18/dist/js/uikit.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.18/dist/js/uikit-icons.min.js"></script>
+    <script src="js/app.js"></script>
 </head>
 <body class="<?= ($is_home) ? 'isHome' : '' ?>">
 <?php require "template-parts/commons/facebook_chat.php"; ?>
+<div id="particles-js"></div>
+<script src="particles.js-master/particles.js"></script>
+<script src="particles.js-master/demo/js/app.js"></script>
 <section id="app" class="uk-offcanvas-content uk-overflow-hidden uk-position-relative uk-background-norepeat uk-background-top-center" uk-toggle="cls: uk-background-contain; mode: media; media: @l" data-src="images/bannercopy.png" uk-img>
 <div uk-sticky="top: 100vh;animation: uk-animation-slide-top;">
     <header class="header">
