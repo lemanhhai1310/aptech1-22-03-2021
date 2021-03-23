@@ -121,46 +121,94 @@
                 <?php endforeach; ?>
             </div>
         </div>
+        <!--Chính sách hỗ trợ-->
+        <div class="uk-child-width-1-2@m mb-30 mb-93-m uk-grid-match" uk-grid>
+            <div>
+                <div class="uk-flex-column uk-flex">
+                    <div class="uk-flex-1">
+                        <div class="mb-15 mb-27-m">
+                            <h2 class="uk-h2 home__block1__title uk-margin-remove">Chính sách hỗ trợ</h2>
+                        </div>
+                        <ul class="uk-list uk-list-bullet home__block5__list mb-16 uk-margin-remove-top">
+                            <li>Học bổng Lập trình tiên phong trị giá <span>50.000.000VNĐ</span></li>
+                            <li>Tặng Bí kíp luyện thi “thần tốc” (Áp dụng cho 100 thí sinh đăng ký đầu tiên)</li>
+                            <li>Tài khoản thi thử 2021</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <img src="images/x3.png" alt="">
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-flex-column uk-flex">
+                    <div class="uk-flex-1">
+                        <div class="uk-flex-center mb-30 mb-63-m" uk-grid>
+                            <div class="uk-width-4-5@m">
+                                <div class="uk-text-center home__block5__title2">
+                                    Aptech - ngôi trường
+                                    ươm mầm thế hệ Lập trình vàng
+                                    cho làng Công nghệ Việt Nam
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <iframe src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--/Chính sách hỗ trợ-->
+
+        <!--Footer-->
         <div class="uk-padding-small uk-border-rounded mb-10-m home__block4 uk-text-center">
-            <div>HỆ THỐNG ĐÀO TẠO LẬP TRÌNH VIÊN QUỐC TẾ APTECH</div>
-            <div class="uk-flex-center uk-child-width-auto" uk-grid>
+            <div class="home__block4__title">HỆ THỐNG ĐÀO TẠO LẬP TRÌNH VIÊN QUỐC TẾ APTECH</div>
+            <div class="uk-flex-center uk-child-width-auto mb-20 uk-grid-small" uk-grid>
                 <div>
-                    <div class="uk-grid-10 uk-flex-middle" uk-grid>
+                    <div class="uk-grid-10 uk-flex-bottom" uk-grid>
                         <div class="uk-width-auto">
-                            <span uk-icon="icon: location; ratio: 1"></span>
-                            <span class="uk-text-middle">Hà Nội:</span>
+                            <div>
+                                <span uk-icon="icon: location; ratio: 1"></span>
+                                <span class="uk-text-middle home__block4__txt1">Hà Nội:</span>
+                            </div>
                         </div>
                         <div class="uk-width-expand">
-                            <ul class="uk-subnav uk-subnav-divider">
-                                <li>285 Đội Cấn, Q. Ba Đình</li>
-                                <li>54 Lê Thanh Nghị, Q. Hai Bà Trưng</li>
+                            <ul class="uk-subnav uk-subnav-divider home__block4__ul1">
+                                <li class="home__block4__ul1__li">285 Đội Cấn, Q. Ba Đình</li>
+                                <li class="home__block4__ul1__li">54 Lê Thanh Nghị, Q. Hai Bà Trưng</li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <div>
-                    <div class="uk-grid-10 uk-flex-middle" uk-grid>
+                    <div class="uk-grid-10 uk-flex-bottom" uk-grid>
                         <div class="uk-width-auto">
-                            <span uk-icon="icon: location; ratio: 1"></span>
-                            <span class="uk-text-middle">TP.HCM:</span>
+                            <div>
+                                <span uk-icon="icon: location; ratio: 1"></span>
+                                <span class="uk-text-middle home__block4__txt1">TP.HCM:</span>
+                            </div>
                         </div>
                         <div class="uk-width-expand">
-                            <ul class="uk-subnav uk-subnav-divider">
-                                <li>212 - 214 Nguyễn Đình Chiểu, Q.3</li>
+                            <ul class="uk-subnav uk-subnav-divider home__block4__ul1">
+                                <li class="home__block4__ul1__li">212 - 214 Nguyễn Đình Chiểu, Q.3</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="uk-text-center">
-                <div class="uk-display-inline-block">
-                    <div class="uk-flex-center uk-flex-middle" uk-grid>
-                        <div>Hotline: 1800 1141</div>
-                        <div>Email: aptech1@aprotrain.com</div>
+                <div class="uk-display-inline-block home__block4__box1">
+                    <div class="uk-flex-center uk-flex-middle uk-grid-small" uk-grid>
+                        <div><span class="home__block4__box1__txt1">Hotline: 1800 1141</span></div>
+                        <div><span class="home__block4__box1__txt2">Email: aptech1@aprotrain.com</span></div>
                     </div>
                 </div>
             </div>
         </div>
+        <!--/Footer-->
     </div>
 </div>
 <?php require "template-parts/layouts/footer.php"; ?>
