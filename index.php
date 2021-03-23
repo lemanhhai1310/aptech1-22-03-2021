@@ -1,4 +1,4 @@
-<?php $data["title"] = "Trang chủ"; ?>
+<?php $data["title"] = "Kỳ thi đánh giá CNTT 2021"; ?>
 <?php $is_home = true; ?>
 <?php require "template-parts/layouts/header.php"; ?>
 <?php require "template-parts/layouts/block01.php"; ?>
