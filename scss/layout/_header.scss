@@ -1,8 +1,12 @@
 .header{
   .uk-sticky-below &{
-    background-color: #fff;
+    //background-color: rgba(#fff,0.9);
+    background-image: linear-gradient(to top,#03228f,#0c62d2);
     position: static !important;
     box-shadow: 0 2px 8px rgba(0,0,0,.08);
+
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.17);
+    //background-color: #00173e;
   }
   .uk-logo{
     img{
@@ -25,7 +29,7 @@
           opacity: 1;
         }
         .uk-sticky-below &{
-          background-color: #666666;
+          //background-color: #000000;
         }
         display: inline-block;
         position: absolute;
@@ -38,7 +42,7 @@
   &__socialLink{
     color: #ffffff;
     .uk-sticky-below &{
-      color: #666666;
+      //color: #000000;
     }
   }
   &__btnRegis{
@@ -58,7 +62,7 @@
       >a{
         color: #ffffff;
         .uk-sticky-below &{
-          color: #666666;
+          //color: #000000;
         }
         text-transform: inherit;
         font-family: $font-HelveticaNeue-Bold;

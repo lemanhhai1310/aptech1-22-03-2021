@@ -55,4 +55,98 @@
       }
     }
   }
+  &__block3{
+    &__box2{
+      $x: 64px;
+      width: calc(100% - #{$x});
+      height: calc(100% - #{$x});
+      background-color: rgba(#00173e,0.3);
+      &__c1{
+        $y: 1.01;
+        width: calc(100% - #{$x} * #{$y});
+        height: calc(100% - #{$x} * #{$y});
+        background-color: #1463de;
+        >*{
+          color: #ffffff;
+          @extend .fz-48;
+          font-family: $font-HelveticaNeue-Bold;
+          line-height: 1.21;
+        }
+      }
+    }
+    &__item{
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      background-color: #000f39;
+      $x: 40px;
+      $y: #{$x};
+      $x: calc(100% - #{$x});
+      clip-path: polygon(#{$x} 0, 100% 50%, #{$x} 100%, 0 100%, 0 0);
+      padding-right: calc(#{$y} + 7px);
+      @include media-breakpoint-up('m'){
+        $x: 54px;
+        $y: #{$x};
+        $x: calc(100% - #{$x});
+        clip-path: polygon(#{$x} 0, 100% 50%, #{$x} 100%, 0 100%, 0 0);
+        padding-right: calc(#{$y} + 7px);
+      }
+      &:nth-child(n+2){
+        margin-top: 10px;
+        @include media-breakpoint-up('m'){
+          margin-top: 21px;
+        }
+      }
+      &:nth-child(1){
+
+      }
+      &:nth-child(2){
+        @include media-breakpoint-up('m'){
+          margin-left: 93px;
+        }
+      }
+      &:nth-child(3){
+        @include media-breakpoint-up('m'){
+          margin-left: 118px;
+        }
+      }
+      &:nth-child(4){
+        @include media-breakpoint-up('m'){
+          margin-left: 72px;
+        }
+      }
+      &:nth-child(5){
+
+      }
+    }
+    &__box1{
+      background-image: linear-gradient(to top, #03228f, #1b7eff);
+      $x: 60px;
+      width: #{$x};
+      height: #{$x};
+      @include media-breakpoint-up('m'){
+        $x: 105px;
+        width: #{$x};
+        height: #{$x};
+      }
+      >*{
+        line-height: 1.2;
+        color: #ffffff;
+        @extend .fz-64;
+        font-family: $font-HelveticaNeue-Bold;
+      }
+    }
+    &__txt1{
+      @extend .fz-16;
+      font-family: $font-HelveticaNeue-Bold;
+      line-height: 1.5;
+      color: #ffffff;
+    }
+  }
+  &__block4{
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.17);
+    background-color: #00173e;
+    @include media-breakpoint-up('m'){
+      border-radius: 15px;
+    }
+  }
 }
