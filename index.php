@@ -121,6 +121,44 @@
                 <?php endforeach; ?>
             </div>
         </div>
+        <!--Cấu trúc đề thi-->
+        <div class="uk-child-width-1-2@m uk-grid-small uk-grid-0-m mb-40 mb-99-m" uk-grid>
+            <div>
+                <div>
+                    <img src="images/cautrucdethi.png" alt="">
+                </div>
+            </div>
+            <div>
+                <div class="mb-20 mb-37-m">
+                    <h2 class="uk-h2 home__block1__title uk-margin-remove">Cấu trúc đề thi</h2>
+                </div>
+                <ul class="uk-list home__block6__list">
+                    <li class="home__block6__list__li uk-active">
+                        <div class="home__block6__txt1">Môn thi</div>
+                        <div class="home__block6__txt2">Toán GMAT và tiếng Anh (kiểm tra về khả năng tư duy logic)</div>
+                    </li>
+                    <li class="home__block6__list__li uk-active">
+                        <div class="home__block6__txt1">Thời lượng thi</div>
+                        <div class="home__block6__txt2">Nhìn ra vấn đề thì dễ
+                            Giải quyết vấn đề lại không dễ
+                            Tìm người cùng mình giải quyết ? Thôi đ có đâu :))</div>
+                        <!--
+                        <div class="home__block6__txt2">60 phút (toán GMAT 30 phút - tiếng Anh 30 phút)</div>
+                        -->
+                    </li>
+                    <li class="home__block6__list__li uk-active">
+                        <div class="home__block6__txt1">Điểm trúng tuyển</div>
+                        <div class="home__block6__txt2">Tổng điểm >=18/45 (tiếng Anh*2,25 + GMAT*2,7)/2,5</div>
+                    </li>
+                    <li class="home__block6__list__li">
+                        <div class="home__block6__txt1">Đơn vị tổ chức</div>
+                        <div class="home__block6__txt2">Tập đoàn Aptech toàn cầu</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!--/Cấu trúc đề thi-->
+
         <!--Chính sách hỗ trợ-->
         <div class="uk-child-width-1-2@m mb-30 mb-93-m uk-grid-match" uk-grid>
             <div>
@@ -154,8 +192,8 @@
                         </div>
                     </div>
                     <div>
-                        <div>
-                            <iframe src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
+                        <div class="home__block5__box1 uk-position-relative">
+                            <iframe class="uk-position-z-index uk-position-relative" src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
                         </div>
                     </div>
                 </div>

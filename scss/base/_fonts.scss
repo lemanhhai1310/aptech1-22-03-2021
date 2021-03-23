@@ -12,6 +12,25 @@
 }
 /**
  * --------------------------------------------------------------------
+ * OpenSans
+ * --------------------------------------------------------------------
+ */
+@font-face{
+  font-family:'Open Sans Regular';
+  font-display: auto;
+  src:local('Open Sans Regular'), url('fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face{
+  font-family:'Open Sans Bold';
+  font-display: auto;
+  src:local('Open Sans Bold'), url('fonts/OpenSans-Bold.ttf') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+/**
+ * --------------------------------------------------------------------
  * HelveticaNeue
  * --------------------------------------------------------------------
  */
@@ -45,7 +64,7 @@
 }
 /**
  * --------------------------------------------------------------------
- * Arial
+ * SVN-Gilroy
  * --------------------------------------------------------------------
  */
 @font-face{
