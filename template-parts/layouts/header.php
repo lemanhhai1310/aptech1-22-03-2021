@@ -30,15 +30,15 @@
                 </div>
                 <div class="uk-navbar-right">
                     <div class="uk-navbar-item header__itemLine uk-visible@m">
-                        <ul class="uk-navbar-nav">
-                            <li class="uk-active"><a href="#">GIỚI THIỆU</a></li>
-                            <li><a href="#">HÌNH THỨC THI</a></li>
+                        <ul class="uk-navbar-nav" uk-scrollspy-nav="closest: li; scroll: true;offset: 60;">
+                            <li><a href="#about">GIỚI THIỆU</a></li>
+                            <li><a href="#hinhthucthi">HÌNH THỨC THI</a></li>
                         </ul>
                     </div>
                     <div class="uk-navbar-item header__itemLine">
                         <div class="uk-child-width-auto uk-grid-10 uk-grid-20-m uk-flex-middle" uk-grid>
-                            <div><a href="" class="header__socialLink" uk-icon="icon: facebook; ratio: 1"></a></div>
-                            <div><a href="" class="header__socialLink" uk-icon="icon: youtube; ratio: 1"></a></div>
+                            <div><a href="https://www.facebook.com/AptechVNLearning/" target="_blank" class="header__socialLink" uk-icon="icon: facebook; ratio: 1"></a></div>
+                            <div><a href="https://youtube.com/c/AprotrainAptech" target="_blank" class="header__socialLink" uk-icon="icon: youtube; ratio: 1"></a></div>
                             <div>
                                 <a href="" class="header__btnRegis uk-button uk-button-secondary uk-border-pill">Đăng ký</a>
                             </div>

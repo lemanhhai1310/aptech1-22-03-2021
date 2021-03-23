@@ -59,6 +59,11 @@
   }
   .uk-navbar-nav{
     >li{
+      &.uk-active{
+        >a{
+          color: yellow;
+        }
+      }
       >a{
         color: #ffffff;
         .uk-sticky-below &{

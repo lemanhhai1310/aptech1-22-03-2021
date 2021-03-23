@@ -4,7 +4,7 @@
 <?php require "template-parts/layouts/block01.php"; ?>
 <div>
     <div class="uk-container">
-        <div class="uk-grid-219-m uk-flex-middle mb-40 mb-143-m" uk-grid>
+        <div id="about" class="uk-grid-219-m uk-flex-middle mb-40 mb-143-m" uk-grid>
             <div class="uk-width-expand">
                 <div class="mb-15 mb-25-m">
                     <h2 class="uk-h2 home__block1__title uk-margin-remove">Đang đứng giữa
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!--4 bước đơn giản để trở thành Lập trình viên Quốc tế-->
-        <div class="mb-15 mb-22-m">
+        <div id="hinhthucthi" class="mb-15 mb-22-m">
             <h2 class="uk-h2 home__block1__title uk-margin-remove uk-text-center">4 bước đơn giản để trở thành
                 Lập trình viên Quốc tế</h2>
         </div>
@@ -250,7 +250,7 @@
                     </div>
                     <div>
                         <div class="home__block5__box1 uk-position-relative">
-                            <iframe class="uk-position-z-index uk-position-relative" src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
+                            <iframe class="uk-position-z-index uk-position-relative" src="https://www.youtube-nocookie.com/embed/gc0z5oXOyPI?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
                         </div>
                     </div>
                 </div>
