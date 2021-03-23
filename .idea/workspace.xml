@@ -52,8 +52,6 @@
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/OpenSans-Regular.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Black.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Bold.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-BoldItalic.ttf" afterDir="false" />
@@ -156,8 +154,7 @@
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/base/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/base/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/components/_fontsize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_fontsize.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/components/_margin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/components/_margin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -244,7 +241,7 @@
       <workItem from="1616394574064" duration="592000" />
       <workItem from="1616396693213" duration="9371000" />
       <workItem from="1616418276196" duration="5924000" />
-      <workItem from="1616461538945" duration="4579000" />
+      <workItem from="1616461538945" duration="7513000" />
     </task>
     <servers />
   </component>

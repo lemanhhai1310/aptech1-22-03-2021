@@ -121,6 +121,65 @@
                 <?php endforeach; ?>
             </div>
         </div>
+        <!--4 bước đơn giản để trở thành Lập trình viên Quốc tế-->
+        <div class="mb-15 mb-22-m">
+            <h2 class="uk-h2 home__block1__title uk-margin-remove uk-text-center">4 bước đơn giản để trở thành
+                Lập trình viên Quốc tế</h2>
+        </div>
+        <div class="uk-text-center mb-30 mb-50-m">
+            <div class="uk-display-inline-block home__block7__box1 uk-border-pill">
+                <span>Hình thức thi: Thi trực tuyến, trắc nghiệm</span>
+            </div>
+        </div>
+        <div class="mb-40 mb-93-m uk-child-width-1-4@m" uk-grid>
+            <?php
+            $data = array(
+                array(
+                    'title' => 'Đăng ký trực tuyến',
+                    'txt' => 'Bằng cách điền thông tin đăng ký dự thi',
+                    'src' => 'images/ico_01.png',
+                ),
+                array(
+                    'title' => 'Nhận số báo danh',
+                    'txt' => 'Thời gian và tài khoản thi qua thông báo Email',
+                    'src' => 'images/ico_02.png',
+                ),
+                array(
+                    'title' => 'Tham gia thi trực tuyến',
+                    'txt' => 'Trên máy tính, thiết bị di động tại bất kỳ điểm nào có kết nối Internet',
+                    'src' => 'images/ico_03.png',
+                ),
+                array(
+                    'title' => 'Kết quả thi',
+                    'txt' => 'Được gửi tới thí sinh trong vòng 48h sau khi hoàn thành bài thi',
+                    'src' => 'images/ico_04.png',
+                ),
+            );
+            foreach ($data as $k => $v): ?>
+            <div class="column1">
+                <div class="home__block7__item uk-flex uk-flex-column" <?= ($k%2==0) ? '' : 'uk-toggle="cls: uk-flex-column-reverse; mode: media; media: @m"' ?>>
+                    <div class="uk-flex-1 uk-flex uk-flex-middle uk-flex-center">
+                        <div class="uk-text-center">
+                            <div class="home__block7__item__txt1"><?= $v['title'] ?></div>
+                            <div class="home__block7__item__txt2"><?= $v['txt'] ?></div>
+                        </div>
+                    </div>
+                    <div class="" uk-toggle="cls: uk-flex-first; mode: media; media: (max-width: 959px)">
+                        <div class="uk-text-center">
+                            <span class="home__block7__item__number uk-border-circle"><span><?= $k+1 ?></span></span>
+                        </div>
+                    </div>
+                    <div class="uk-flex-1 uk-flex uk-flex-middle uk-flex-center">
+                        <div class="home__block7__item__img uk-border-circle uk-flex uk-flex-middle uk-flex-center">
+                            <img src="<?= $v['src'] ?>" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <?php endforeach; ?>
+        </div>
+        <!--/4 bước đơn giản để trở thành Lập trình viên Quốc tế-->
+
         <!--Cấu trúc đề thi-->
         <div class="uk-child-width-1-2@m uk-grid-small uk-grid-0-m mb-40 mb-99-m" uk-grid>
             <div>
@@ -139,9 +198,7 @@
                     </li>
                     <li class="home__block6__list__li uk-active">
                         <div class="home__block6__txt1">Thời lượng thi</div>
-                        <div class="home__block6__txt2">Nhìn ra vấn đề thì dễ
-                            Giải quyết vấn đề lại không dễ
-                            Tìm người cùng mình giải quyết ? Thôi đ có đâu :))</div>
+                        <div class="home__block6__txt2">60 phút (toán GMAT 30 phút - tiếng Anh 30 phút)</div>
                         <!--
                         <div class="home__block6__txt2">60 phút (toán GMAT 30 phút - tiếng Anh 30 phút)</div>
                         -->
