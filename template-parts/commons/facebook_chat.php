@@ -1,11 +1,12 @@
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
-<!-- Your customer chat code -->
+<!-- Your Chat Plugin code -->
 <div class="fb-customerchat"
-     attribution=setup_tool
-     page_id="2428809380682169"
-     logged_in_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi"
-     logged_out_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi">
+     attribution="setup_tool"
+     page_id="100840921957725"
+     theme_color="#0A7CFF"
+     logged_in_greeting="Liên hệ với Aptech Việt Nam qua Messenger"
+     logged_out_greeting="Liên hệ với Aptech Việt Nam qua Messenger">
 </div>
 <script>
     defer(function() {

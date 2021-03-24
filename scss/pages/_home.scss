@@ -21,7 +21,7 @@
       }
     }
     &__box{
-      background-image: linear-gradient(to top, #03228f, #0c62d2);
+      background-image: linear-gradient(to right, #03228f, #0c62d2);
       $x: 14px;
       $x: calc(100% - #{$x});
       clip-path: polygon(100% 0, 100% #{$x}, #{$x} 100%, 0 100%, 0 0);

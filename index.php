@@ -295,7 +295,7 @@
                 </div>
             </div>
             <div class="uk-text-center">
-                <div class="uk-display-inline-block home__block4__box1">
+                <div class="uk-display-inline-block home__block4__box1 uk-border-rounded">
                     <div class="uk-flex-center uk-flex-middle uk-grid-small" uk-grid>
                         <div><span class="home__block4__box1__txt1">Hotline: 1800 1141</span></div>
                         <div><span class="home__block4__box1__txt2">Email: aptech1@aprotrain.com</span></div>

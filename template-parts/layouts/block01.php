@@ -1,19 +1,19 @@
 <div class="block01 uk-flex uk-flex-middle" uk-height-viewport="offset-top: true;offset-bottom: true">
     <div class="uk-section uk-width-1-1">
         <div class="uk-container">
-            <div class="uk-flex-middle uk-position-relative" uk-grid>
-                <div class="uk-width-2-3@m">
+            <div class="uk-flex-middle uk-position-relative uk-flex-right" uk-grid>
+                <div class="uk-width-2-3@m" uk-toggle="cls: uk-position-center-left; mode: media; media: @m">
                     <div class="uk-text-center">
                         <img src="images/Group4.png" alt="">
                     </div>
                 </div>
-                <div class="uk-width-2-5@m" id="dky" uk-toggle="cls: uk-position-center-right; mode: media; media: @m">
+                <div class="uk-width-2-5@m" id="dky">
                     <div class="uk-text-center uk-margin mb-50-m">
                         <img src="images/VectorSmartObject221.png" alt="">
                     </div>
                     <div class="uk-flex-center uk-margin" uk-grid>
                         <div class="uk-width-4-5@m">
-                            <div class="uk-card block01__card uk-card-body uk-card-default">
+                            <div class="uk-card block01__card uk-card-body uk-card-default uk-border-rounded">
                                 <form id="contact_form" name='registration'>
                                     <fieldset class="uk-fieldset">
                                         <div class="uk-margin">
