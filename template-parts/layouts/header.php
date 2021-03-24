@@ -10,7 +10,7 @@
           new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-TTFCG7G');</script>
+      })(window,document,'script','dataLayer','GTM-MMQXW2Q');</script>
     <!-- End Google Tag Manager -->
     <meta charset="UTF-8">
     <title>Aptech - <?= /** @var TYPE_NAME  */
@@ -32,7 +32,7 @@
 </head>
 <body class="<?= ($is_home) ? 'isHome' : '' ?>">
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TTFCG7G"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMQXW2Q"
                   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <?php require "template-parts/commons/facebook_chat.php"; ?>
