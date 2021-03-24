@@ -19,3 +19,7 @@
   pointer-events: none;
   z-index: 0;
 }
+.error{
+  color: red;
+  @extend .fz-16;
+}

@@ -14,7 +14,7 @@
                     <div class="uk-flex-center uk-margin" uk-grid>
                         <div class="uk-width-4-5@m">
                             <div class="uk-card block01__card uk-card-body uk-card-default">
-                                <form id="contact_form">
+                                <form id="contact_form" name='registration'>
                                     <fieldset class="uk-fieldset">
                                         <div class="uk-margin">
                                             <input name="fname" id="fname" class="uk-input block01__input uk-border-rounded" uk-toggle="cls: uk-form-large; mode: media; media: @l" type="text" placeholder="Họ và tên">
@@ -61,7 +61,7 @@
 
       //validation
       if (fname == '' || fphone == '' || femail == '') { //if you are use other form validation scripts remove the if statement
-        alert("Please fill all fields");
+        // alert("Please fill all fields");
       }
       // AJAX Code To Submit Form.
       else {
@@ -82,6 +82,45 @@
         });
       }
       return false;
+    });
+  });
+
+  // Wait for the DOM to be ready
+  $(function() {
+    // Initialize form validation on the registration form.
+    // It has the name attribute "registration"
+    $("form[name='registration']").validate({
+      // Specify validation rules
+      rules: {
+        // The key name on the left side is the name attribute
+        // of an input field. Validation rules are defined
+        // on the right side
+        fname: "required",
+        femail: {
+          required: true,
+          // Specify that email should be validated
+          // by the built-in "email" rule
+          email: true
+        },
+        fphone: {
+          required: true,
+          minlength: 10
+        }
+      },
+      // Specify validation error messages
+      messages: {
+        fname: "Please enter your name",
+        fphone: {
+          required: "Please provide a phone",
+          minlength: "Your phone must be at least 10 characters long"
+        },
+        femail: "Please enter a valid email address"
+      },
+      // Make sure the form is submitted to the destination defined
+      // in the "action" attribute of the form when valid
+      submitHandler: function(form) {
+        form.submit();
+      }
     });
   });
 </script>
