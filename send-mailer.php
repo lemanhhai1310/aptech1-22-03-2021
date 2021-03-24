@@ -23,8 +23,8 @@ if(isset($_POST['button']))
 $mail = new PHPMailer;
 $mail->isSMTP();
 $mail->CharSet = "UTF-8";
-$mail->Username = "hai.lemanh.1310@gmail.com"; // Replace with your mail id
-$mail->Password = "fyyiajokqsznyogg"; //Replace with your mail pass
+$mail->Username = "relayaa2021@aprotrain.com"; // Replace with your mail id
+$mail->Password = "Aptecln2o21"; //Replace with your mail pass
 $mail->SMTPAuth = true;  // authentication enabled
 $mail->SMTPSecure = 'tls'; // secure transfer enabled REQUIRED for GMail
 $mail->SMTPAutoTLS = false;
