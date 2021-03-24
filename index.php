@@ -250,7 +250,10 @@
                     </div>
                     <div>
                         <div class="home__block5__box1 uk-position-relative">
-                            <iframe class="uk-position-z-index uk-position-relative" src="https://www.youtube-nocookie.com/embed/gc0z5oXOyPI?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
+                            <div class="uk-border-rounded uk-overflow-hidden">
+                                <iframe class="uk-position-z-index uk-position-relative" src="https://www.youtube-nocookie.com/embed/gc0z5oXOyPI?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true;autoplay: false;"></iframe>
+                            </div>
+                            <div class="home__block5__box1__border uk-position-cover uk-border-rounded"></div>
                         </div>
                     </div>
                 </div>

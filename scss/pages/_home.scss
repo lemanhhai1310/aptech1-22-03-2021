@@ -206,21 +206,23 @@
       font-family: $font-HelveticaNeue-Light;
     }
     &__box1{
+      .uk-border-rounded{
+        @include media-breakpoint-up('m'){
+          border-radius: 15px !important;
+        }
+      }
+      &__border{
+        //width: 100%;
+        //height: 100%;
+        border: 1px solid #165ba9;
+        $x: 10px;
+        left: calc(0px - #{$x});
+        bottom: calc(0px - #{$x});
+        top: #{$x};
+        right: #{$x};
+      }
       &:before{
         content: "";
-        width: 100%;
-        height: 100%;
-        border-radius: 15px;
-        border-style: solid;
-        border-width: 1px;
-        border-image-source: linear-gradient(to top, #165ba9, #2683ed);
-        border-image-slice: 1;
-        //background-image: linear-gradient(to bottom, #ed711f, #ed711f), linear-gradient(to top, #165ba9, #2683ed);
-        background-origin: border-box;
-        background-clip: content-box, border-box;
-        position: absolute;
-        left: -10px;
-        bottom: -10px;
       }
     }
     &__list{
