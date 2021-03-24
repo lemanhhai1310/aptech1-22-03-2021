@@ -225,12 +225,7 @@
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../02/vieclam123/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/pages/_home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/commons/facebook_chat.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/commons/facebook_chat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block01.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cooken" beforeDir="false" afterPath="$PROJECT_DIR$/../cooken" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/.idea/workspace.xml" afterDir="false" />
@@ -322,7 +317,7 @@
       <workItem from="1616492552823" duration="987000" />
       <workItem from="1616505147018" duration="206000" />
       <workItem from="1616551383278" duration="1912000" />
-      <workItem from="1616554058022" duration="1279000" />
+      <workItem from="1616554058022" duration="1434000" />
     </task>
     <servers />
   </component>
