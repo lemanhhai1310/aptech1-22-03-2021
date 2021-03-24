@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff98992c-42b6-43a3-be4f-e66dc189f146" name="aptech" url="http://103.110.84.119">
+        <fileTransfer rootFolder="/public_html/2021/03/aptech1" host="103.110.84.119" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
